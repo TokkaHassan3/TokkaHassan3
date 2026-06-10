@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there, I am Tokka 👋
 
-<!--
-**TokkaHassan3/TokkaHassan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 **Genomics researcher at Egypt Center of Research & Regenerative Medicine (ECRRM) with experience in**
+- Whole Genome Sequencing (WGS) & Whole Exome Sequencing (WES)
+- Oxford Nanopore long-read sequencing
+- Genome assembly projects
+- Egyptian Reference Genome Project
 
-Here are some ideas to get you started:
+🧠 **Masters' holder in Epstein-Barr virus-associated multiple sclerosis, with a focus on cognitive impairment and genetic risk factors**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧬 **Technical skills**
+- Python
+- R
+- Bash/Linux
+
+💻 **Currently learning**
+- Genomic Data analysis
+- Bioinformatics pipelines
+- Nextflow
+
+📚 **Current Goals**
+- Participate in bioinformatics hackathons
+- Build reproducible genomics workflows
+- Learn machine learning for genomics
+
+💡**Research Interests**
+- Computational Genomics
+- Genome Assembly
+- Variant Interpretation
+- Population Genomics
+- Rare Disease Genomics
+- AI Applications in Biotechnology
